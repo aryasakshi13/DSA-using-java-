@@ -19,3 +19,4 @@ class min_max_Array{
      
      return new Pair<>(min,max);
 }
+}
